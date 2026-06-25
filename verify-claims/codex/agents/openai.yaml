@@ -1,0 +1,7 @@
+interface:
+  display_name: "Verify Claims"
+  short_description: "Verify key claims before answering"
+  default_prompt: "Use $verify-claims to validate the key factual claims in this answer."
+
+policy:
+  allow_implicit_invocation: true

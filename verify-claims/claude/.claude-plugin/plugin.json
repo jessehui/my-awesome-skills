@@ -1,0 +1,9 @@
+{
+  "name": "verify-claims",
+  "version": "0.1.0",
+  "description": "Verify key claims (versions, API behavior, causal inferences, executable advice) and annotate them inline as verified / partly verified / unverified.",
+  "author": {
+    "name": "jessehui"
+  },
+  "keywords": ["verification", "fact-check", "hallucination", "claims"]
+}

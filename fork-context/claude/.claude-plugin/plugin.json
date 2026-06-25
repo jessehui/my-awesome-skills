@@ -1,0 +1,9 @@
+{
+  "name": "fork-context",
+  "version": "0.1.0",
+  "description": "Fork a tangential idea out of a long session into a self-contained brief + paste-prompt for a fresh clean session, without polluting the current one.",
+  "author": {
+    "name": "jessehui"
+  },
+  "keywords": ["context", "session", "fork", "subagent"]
+}
